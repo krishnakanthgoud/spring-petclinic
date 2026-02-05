@@ -1,0 +1,3 @@
+sonar.projectkey=springpet
+sonar.projectname=springpet
+sonar.java.binaries=.
